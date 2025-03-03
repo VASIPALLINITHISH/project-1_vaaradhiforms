@@ -108,7 +108,7 @@ a {
 }
 .productimage1{
   display: flex;
-  background-image: url(./product6.jpg);
+  background-image: url(./images/product6.jpg);
   background-position: center;
   background-size: cover;
   text-align: center;
@@ -121,7 +121,7 @@ a {
 }
 .productimage2{
   display: flex;
-  background-image: url(./product25.png);
+  background-image: url(./images/product25.png);
   background-position: center;
   background-size: cover;
   text-align: center;
@@ -134,7 +134,7 @@ a {
 }
 .productimage3{
   display: flex;
-  background-image: url(./product26.png);
+  background-image: url(./images/product26.png);
   background-position: center;
   background-size: cover;
   text-align: center;
@@ -147,7 +147,7 @@ a {
 }
 .productimage4{
   display: flex;
-  background-image: url(./product27.jpg);
+  background-image: url(./images/product27.jpg);
   background-position: center;
   background-size: cover;
   text-align: center;
